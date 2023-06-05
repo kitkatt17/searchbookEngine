@@ -2,6 +2,12 @@
 
 Book Search Engine
 
+
+## Description
+
+A book search engine using the google books api. RESTful API and GraphQL API built with Apollo Server.
+
+
 ## User Story
 
 AS AN avid reader
@@ -42,4 +48,10 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
 
-## 
+## Visual 
+
+![Screenshot example of project](./Assets/ss-challenge20.PNG)
+
+## Links
+
+[GitHub Repo](https://github.com/kitkatt17/searchbookEngine)
